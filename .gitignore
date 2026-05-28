@@ -1,0 +1,8 @@
+**pycache**/
+*.pt
+*.csv
+runs/
+output/
+venv/
+.idea/
+.ipynb_checkpoints/
